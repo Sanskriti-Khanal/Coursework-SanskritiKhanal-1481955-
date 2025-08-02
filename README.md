@@ -37,5 +37,5 @@ All datasets are sourced from **public government repositories** and processed u
 | West Yorkshire  | Bramley      | 9.94             | 10.00            | 4.97         | 9.99        | 8.72        |
 | South Yorkshire | Worsbrough   | 9.94             | 9.51             | 4.97         | 9.99        | 8.60        |
 | South Yorkshire | Thorne       | 9.94             | 9.20             | 4.97         | 9.99        | 8.52        |
-|-----------------------------------------------------------------------------------------------------------------|
+
 
