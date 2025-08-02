@@ -25,16 +25,17 @@ All datasets are sourced from **public government repositories** and processed u
 
 ## 📊 Final Recommendation Scores
 
-| District     | County           | 🏠 House | ⚡ Broadband | 🎓 School | 🚓 Crime | ⭐ Total Score |
-|--------------|------------------|----------|--------------|-----------|----------|----------------|
-| Rotherham    | South Yorkshire  | **10**   | **10**       | 0         | 10       | **7.5**         |
-| Bradford     | West Yorkshire   | **10**   | 0            | **10**    | 7.05     | **6.76**        |
-| Doncaster    | South Yorkshire  | 7.86     | 2.38         | 6.22      | 7.73     | **6.05**        |
-| Barnsley     | South Yorkshire  | 9.41     | 6.62         | 1.24      | 6.84     | **5.78**        |
-| Leeds        | West Yorkshire   | 0        | **10**       | 3.10      | **10**   | **5.78**        |
-| Sheffield    | South Yorkshire  | 0        | 0            | **10**    | 0        | **2.5**         |
-
-> 📌 *Scores are out of 10 per metric. Final score is the average of the four.*
-
-## 📁 Folder Structure
+| County          | Town         | HousePrice_Score | Broadband_Score | School_Score | Crime_Score | Total_Score |
+|-----------------|--------------|------------------|------------------|--------------|-------------|-------------|
+| South Yorkshire | Not Known    | 9.94             | 8.25             | 10.00        | 9.99        | 9.54        |
+| West Yorkshire  | Wetherby     | 9.94             | 8.25             | 10.00        | 9.99        | 9.54        |
+| South Yorkshire | Sheffield    | 9.94             | 8.25             | 8.37         | 9.99        | 9.14        |
+| South Yorkshire | Mexborough   | 9.94             | 8.25             | 7.55         | 9.99        | 8.93        |
+| South Yorkshire | Doncaster    | 9.94             | 8.25             | 7.14         | 9.99        | 8.83        |
+| South Yorkshire | Whiston      | 9.94             | 10.00            | 4.97         | 9.99        | 8.72        |
+| South Yorkshire | Rawmarsh     | 9.94             | 9.97             | 4.97         | 9.99        | 8.72        |
+| West Yorkshire  | Bramley      | 9.94             | 10.00            | 4.97         | 9.99        | 8.72        |
+| South Yorkshire | Worsbrough   | 9.94             | 9.51             | 4.97         | 9.99        | 8.60        |
+| South Yorkshire | Thorne       | 9.94             | 9.20             | 4.97         | 9.99        | 8.52        |
+|-----------------------------------------------------------------------------------------------------------------|
 
